@@ -1,0 +1,3 @@
+[submodule "branchrepo"]
+	path = branchrepo
+	url = https://github.com/stefaniukoleg/branchrepo
